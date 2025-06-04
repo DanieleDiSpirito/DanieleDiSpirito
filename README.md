@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 ❤️ I’m interested in IT, Math, Data Science and Cybersecurity.<br>💻 I’m currently learning how IT works.<br>👨‍💻  My website: [danieledispirito.com](http://danieledispirito.com)
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniele.di.spirito) 
 
 # 💻 Tech Stack
