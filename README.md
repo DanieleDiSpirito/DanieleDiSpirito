@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤️ I’m interested in IT, web development, Data Science and Cybersecurity.<br>💻 I’m currently learning how IT works.<br>👨‍💻  My website: [danieledispirito.com](http://danieledispirito.com)
+❤️ I’m interested in IT, Math, Data Science and Cybersecurity.<br>💻 I’m currently learning how IT works.<br>👨‍💻  My website: [danieledispirito.com](http://danieledispirito.com)
 
 
 ## 🌐 Socials:
